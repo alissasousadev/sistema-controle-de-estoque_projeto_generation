@@ -1,9 +1,12 @@
 import readlinesync = require("readline-sync");
-import { colors } from './src/util/Colors'; 
+import { colors } from './src/util/Colors';
+import { Produto } from "./src/model/produto"; 
 
 export function main() {
 
     let opcao: number;
+
+    // Objeto da Classe Produto (Teste)
 
     while (true) {
 
