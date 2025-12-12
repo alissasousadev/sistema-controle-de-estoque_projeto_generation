@@ -1,0 +1,28 @@
+{
+  "name": "sistema-controle-de-estoque_projeto_generation",
+  "version": "1.0.0",
+  "description": "Nesse projeto, será construído o sistema de controle de estoque para uma loja online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissasousadev/sistema-controle-de-estoque_projeto_generation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alissasousadev/sistema-controle-de-estoque_projeto_generation/issues"
+  },
+  "homepage": "https://github.com/alissasousadev/sistema-controle-de-estoque_projeto_generation#readme",
+  "dependencies": {
+    "@types/node": "^25.0.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  }
+}
